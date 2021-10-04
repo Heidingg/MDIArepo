@@ -2,3 +2,8 @@ Groceries
 Bread
 Butter
 Milk
+
+School
+pen
+paper
+glue
